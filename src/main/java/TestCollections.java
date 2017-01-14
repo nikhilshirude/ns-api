@@ -3,6 +3,10 @@
  */
 public class TestCollections {
 
+        public static void main(String[] args) {
 
+            System.out.println("Hello Nikhil");
+
+        }
 
 }
